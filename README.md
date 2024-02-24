@@ -2,7 +2,7 @@
 ![sentiment](https://github.com/anpc849/UIT_DS102_Final_Project/assets/160831531/c0249e50-9179-4b37-9711-c44b429df679)
 
 
-Check out [my report]() on Overleaf for detailed insights.	
+Check out `DS105_report.pdf` for detailed insights.	
 
 This repository contains the source code for DS102. You can use the following instructions to clone the repository and get started with the code.
 ## Contents
